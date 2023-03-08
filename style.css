@@ -1,0 +1,12 @@
+.container{
+line-height : 1.5cm;
+padding: 20px;  
+}
+::-webkit-input-placeholder{
+    color: aqua;
+
+
+}
+
+
+
